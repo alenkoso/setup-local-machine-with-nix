@@ -2,6 +2,7 @@
 
 Over-engineered [Nix](https://nixos.org)-powered system configuration and dotfiles for Darwin using [nix-darwin](https://github.com/LnL7/nix-darwin) and [home-manager](https://github.com/nix-community/home-manager).
 
+Current configuration allows you to setup a Macbook, running on Darwin architecture.
 ## Usage
 
 1. Install Nix & Homebrew
@@ -27,3 +28,7 @@ Configurations and general structure were heavily inspired by:
 - [shaunsingh/nix-darwin-dotfiles](https://github.com/shaunsingh/nix-darwin-dotfiles)
 - [yurrriq/dotfiles](https://github.com/yurrriq/dotfiles)
 - [lucperkins/nix-home-config](https://github.com/lucperkins/nix-home-config)
+
+## Worth checking out
+
+- https://search.nixos.org/packages
